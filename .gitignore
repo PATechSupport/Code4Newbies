@@ -15,3 +15,90 @@
 /log/*
 !/log/.keep
 /tmp
+/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
+/devkitvars.bat
+/devkitvars.ps1
+
+
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+## Specific to RubyMotion:
+.dat*
+.repl_history
+build/
+
+## Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+## Environment normalisation:
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+# for a library or gem, you might want to ignore these files since the code is
+# intended to run in multiple environments; otherwise, check them in:
+# Gemfile.lock
+# .ruby-version
+# .ruby-gemset
+
+# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+.rvmrc
+/bin/
+/mingw/
+/lib/
+
+###############################################################################################
+# APPLICATION #
+###############################################################################################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.psd
+*.ai
+*.ase
+
+###############################################################################################
+# Packages #
+###############################################################################################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+###############################################################################################
+# OS generated files #
+###############################################################################################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+###############################################################################################
+# Ignore application configurations
+###############################################################################################
+.chef
+.vagrant
